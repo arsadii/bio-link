@@ -4,6 +4,11 @@
   box-sizing: border-box;
 }
 
+html {
+  width: 100vw;
+  overflow-x: hidden;
+}
+
 body {
   background-color: #191931;
   color: #e1e1f1;
